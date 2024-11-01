@@ -1,0 +1,7 @@
+{
+  "/api/auth/login": "/auth",
+  "/api/invoices": "/invoices",
+  "/api/invoices/:id": "/invoices/:id",
+  "/api/stock": "/stockMovements",
+  "/api/stock/:id": "/stockMovements/:id"
+}

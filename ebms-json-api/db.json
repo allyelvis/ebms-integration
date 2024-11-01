@@ -1,0 +1,24 @@
+{
+  "auth": {
+    "token": "your_generated_token_here"
+  },
+  "invoices": [
+    {
+      "id": 1,
+      "date": "2024-11-01",
+      "amount": 1500,
+      "customer": "John Doe",
+      "status": "success",
+      "electronicSignature": "abc123signature"
+    }
+  ],
+  "stockMovements": [
+    {
+      "id": 1,
+      "product": "Widget A",
+      "quantity": 50,
+      "movementType": "addition",
+      "date": "2024-11-01"
+    }
+  ]
+}
